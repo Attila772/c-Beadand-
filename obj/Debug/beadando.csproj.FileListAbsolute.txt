@@ -1,0 +1,16 @@
+C:\Users\A\source\repos\beadando\bin\Debug\beadando.exe.config
+C:\Users\A\source\repos\beadando\bin\Debug\beadando.exe
+C:\Users\A\source\repos\beadando\bin\Debug\beadando.pdb
+C:\Users\A\source\repos\beadando\obj\Debug\beadando.csprojAssemblyReference.cache
+C:\Users\A\source\repos\beadando\obj\Debug\beadando.Form1.resources
+C:\Users\A\source\repos\beadando\obj\Debug\beadando.Properties.Resources.resources
+C:\Users\A\source\repos\beadando\obj\Debug\beadando.csproj.GenerateResource.cache
+C:\Users\A\source\repos\beadando\obj\Debug\beadando.csproj.CoreCompileInputs.cache
+C:\Users\A\source\repos\beadando\obj\Debug\beadando.exe
+C:\Users\A\source\repos\beadando\obj\Debug\beadando.pdb
+C:\Users\A\source\repos\beadando\bin\Debug\System.Data.SQLite.dll
+C:\Users\A\source\repos\beadando\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\A\source\repos\beadando\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\A\source\repos\beadando\bin\Debug\System.Data.SQLite.xml
+C:\Users\A\source\repos\beadando\obj\Debug\beadando.csproj.CopyComplete
+C:\Users\A\source\repos\beadando\obj\Debug\beadando.user_form.resources
